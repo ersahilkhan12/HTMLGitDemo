@@ -8,9 +8,9 @@ THis is my first Git work here!!
 
 </head>
 <BODY>
-	Login : <input> </input>
-	username : 
-	Password : 
+	<h3>Login </h3> 
+	username : <input typr="text"> </input>
+	Password : <input type="Password"> </input>
 	Submit : <input type="Sub1"></input>
 </BODY>
 
