@@ -2,8 +2,11 @@ THis is my first Git work here!!
 <HTML>
 <HEAD>
    	Hello this is Git Demo File !!
+<head>
+<h>Welcome to my first Git. Its Sahil khan here.</h>
+</head>
 <BODY>
+	
 </BODY>
-	Welcome to my first Git. Its Sahil khan here.
 </HEAD>
 </HTML>
